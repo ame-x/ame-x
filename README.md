@@ -1,6 +1,11 @@
 <h1 align="center"> Hi👍 I'm Rucy</h1>  
 
-[![twitter](https://img.shields.io/twitter/follow/amex2189?style=social)](https://twitter.com/amex2189)
+
+LTC: **LTDiKuDRuQ5PZss2xh4QyZj4FHZhaHg9kT**
+
+[![twitter](https://img.shields.io/twitter/follow/amex2189?style=social)](https://twitter.com/deaduserfuck)
+
+Please visit my website [ame-x.net](https://ame-x.net).
 
 I'm a student in Japan.
 
