@@ -17,8 +17,6 @@ Programming / Activity start date: 2024 3/10
 - create Framework
 - do many things
 
-I like [Hono](https://github.com/honojs/hono) 🔥
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rucykun&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rucykun&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rucykun&theme=aura_dark&utcOffset=8)
