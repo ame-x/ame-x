@@ -1,7 +1,8 @@
 <h1 align="center"> Hi👋 I'm Rucy</h1>  
 
-BTC: **bc1qsva7tqrsx7zewxg72s9mng8gysyh2ey40f4xp5**
-LTC: **LTDiKuDRuQ5PZss2xh4QyZj4FHZhaHg9kT**
+Bitcoin: **bc1qsva7tqrsx7zewxg72s9mng8gysyh2ey40f4xp5**
+Litecoin: **LTDiKuDRuQ5PZss2xh4QyZj4FHZhaHg9kT**
+PayPay: @rucykun
 
 [![twitter](https://img.shields.io/twitter/follow/deaduserfuck?style=social)](https://twitter.com/deaduserfuck)
 
