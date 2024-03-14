@@ -1,6 +1,6 @@
 ### Discord Status
 <a href="https://discord.com/users/1209021358990696518" align="left">
-    <img src="https://lanyard.cnrad.dev/api/1209021358990696518?theme=dark&animated=true">
+    <img src="https://lanyard.cnrad.dev/api/1209021358990696518?theme=dark">
 </a>
 
 #### Status
