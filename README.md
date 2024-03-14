@@ -1,5 +1,9 @@
+<h1 align="center"> Hi👋 I'm Rucy</h1>  
+
 LTC: **LTDiKuDRuQ5PZss2xh4QyZj4FHZhaHg9kT**
-PayPay: **qr.paypay.ne.jp/p2p01_9lLTur5UuLErSTnU**
+
+[![twitter](https://img.shields.io/twitter/follow/deaduserfuck?style=social)](https://twitter.com/deaduserfuck)
+
 
 #### Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rucykun&theme=2077)
