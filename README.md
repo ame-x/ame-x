@@ -1,5 +1,3 @@
-<h1 align="center"> Hi👋 I'm Rucy</h1>  
-
 LTC: **LTDiKuDRuQ5PZss2xh4QyZj4FHZhaHg9kT**
 
 #### Status
