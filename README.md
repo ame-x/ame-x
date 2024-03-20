@@ -5,6 +5,10 @@
 ### Anilist Status
 <img src="https://image.anili.st/user/rucykun" width="500">
 
+### Spotify Status
+<p align="left">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31d76ptpo5wxjtdpfgp5pnzkcxna&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+
 #### GitHub Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rucykun&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rucykun&theme=2077)
