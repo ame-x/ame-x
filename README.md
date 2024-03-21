@@ -1,5 +1,7 @@
 ### Discord Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/1209936797375926333)](https://discord.com/users/1209936797375926333)
+<a href="https://discord.com/users/1209936797375926333" align="left">
+    <img src="https://lanyard.cnrad.dev/api/1209936797375926333?theme=dark&animated=true&showDisplayName=true">
+</a>
 
 ### Spotify Status
 ![](https://spotify-github-profile.vercel.app/api/view?uid=31d76ptpo5wxjtdpfgp5pnzkcxna)
