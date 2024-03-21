@@ -2,8 +2,11 @@
 <a href="https://discord.com/users/1209936797375926333">
    <img src="https://lanyard.kyrie25.me/api/1209936797375926333?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"/>
 
-### Anilist Status
-<img src="https://image.anili.st/user/rucykun" width="500">
+[![](https://raw.githubusercontent.com/rucykun/rucykun/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/rucykun/rucykun/tree/master/profile-summary-card-output)
+[![](https://raw.githubusercontent.com/rucykun/rucykun/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/rucykun/rucykun/tree/master/profile-summary-card-output) [![](https://raw.githubusercontent.com/rucykun/rucykun/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/rucykun/rucykun/tree/master/profile-summary-card-output)
+[![](https://raw.githubusercontent.com/rucykun/rucykun/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/SlashNephy/SlashNephy/tree/master/profile-summary-card-output) [![](https://raw.githubusercontent.com/rucykun/rucykun/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/rucykun/rucykun/tree/master/profile-summary-card-output)
+
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=v1h824j8sxke430y505vk0wu8&count=5&unique=on)](https://www.last.fm/ja/user/AsteriaNocturna)
 
 ### Spotify Status
 <p align="left">
