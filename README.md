@@ -6,6 +6,7 @@
 
 ![](https://spotify-recently-played-readme.vercel.app/api?user=31d76ptpo5wxjtdpfgp5pnzkcxna&count=5&unique=on)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rucykun&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rucykun&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rucykun&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rucykun&theme=2077)
