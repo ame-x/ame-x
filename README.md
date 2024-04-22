@@ -1,7 +1,3 @@
-<h1 align="center">Hi👋 I'm Rucy</h1>
-
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rucykun alt=rucykun/> </p>
-
 ### Discord Status
 [![Discord Presence](https://lanyard.kyrie25.me/api/1212410110307999764)](https://discord.com/users/1212410110307999764)
 
