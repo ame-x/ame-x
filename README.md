@@ -7,7 +7,7 @@ BTC: **bc1q65tph5ws8jguy0r2uae7cwvt0s48ext2rqt5g8**
 
 I'm a student in Japan.
 
-y/o 13 ~ 14
+y/o = 13 ~ 14
 
 Programming / Activity start date: 2024 3/03
 
