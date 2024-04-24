@@ -9,14 +9,14 @@ I'm a student in Japan.
 
 y/o = 13 ~ 14
 
-Programming / Activity start date: 2024 2/10
+Programming / Activity start date: 2024 3/03
 
 About me: [ame-x.github.io](https://ame-x.github.io)
 
 #### Anime List
 <img src="https://img.anili.st/user/6670746" width="500">
 
-#### Github Status
+#### Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ame-x&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ame-x&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ame-x&theme=nord_dark)
