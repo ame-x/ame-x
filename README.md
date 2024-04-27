@@ -7,7 +7,7 @@ Activity start date: 2024 3/03
 About me: [flanted.github.io](https://flanted.github.io)
 
 #### Anime List
-<img src="https://img.anili.st/user/667074" width="500">
+<img src="https://img.anili.st/user/6670746" width="500">
 
 #### Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rucykun&theme=nord_dark)
