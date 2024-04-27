@@ -1,9 +1,6 @@
-<h1 align="center"> Hi👋 I'm Flanted</h1>  
+### Hey, I'm Flanted 👋
 
-LTC: **ltc1q2p0da3lkl55f9ffl3un02lxv2u37k5d8n9u76j**
-BTC: **bc1q65tph5ws8jguy0r2uae7cwvt0s48ext2rqt5g8**
-
-I'm a student in Japan.
+I'm a 13 year old full-stack developer from japan.
 
 Activity start date: 2024 3/03
 
