@@ -1,4 +1,4 @@
-### Hey, I'm Flanted 👋
+### Hi, I'm Flanted 👋
 
 I'm a 13 year old full-stack developer from japan.
 
