@@ -1,11 +1,3 @@
-### Hi, I'm Flanted 👋
-
-I'm a 13 year old full-stack developer from japan.
-
-Activity start date: 2024 3/03
-
-About me: [flanted.github.io](https://flanted.github.io)
-
 #### Anime List
 <img src="https://img.anili.st/user/6670746" width="500">
 
