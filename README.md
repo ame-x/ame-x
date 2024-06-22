@@ -1,4 +1,4 @@
-<h1 align="left">Rucy</h1>
+## Hi, I'm Rucy
 
 [![twitter](https://img.shields.io/twitter/follow/deaduserfuck?style=social)](https://twitter.com/deaduserfuck)
 ![Profile view](https://komarev.com/ghpvc/?username=Rucyy&color=lightgrey)
