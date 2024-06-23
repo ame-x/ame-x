@@ -1,5 +1,3 @@
-## Hi, I'm Rucy
-
 [![twitter](https://img.shields.io/twitter/follow/1919ID?style=social)](https://twitter.com/1919ID)
 
 #### Discord
