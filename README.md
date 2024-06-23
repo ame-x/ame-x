@@ -1,6 +1,6 @@
 ## Hi, I'm Rucy
 
-[![twitter](https://img.shields.io/twitter/follow/deaduserfuck?style=social)](https://twitter.com/deaduserfuck)
+[![twitter](https://img.shields.io/twitter/follow/1919ID?style=social)](https://twitter.com/1919ID)
 
 #### Discord
 <a href="https://discord.com/users/1232762695229636638"  align="left">
